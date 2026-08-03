@@ -1,0 +1,9 @@
+{
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "A test token",
+  "image": "https://raw.githubusercontent.com/Kinggrant85/tokenanvil-metadata/main/images/0aa5392f-5bf0-41ae-a2ab-0328ccfa8555.png",
+  "decimals": null,
+  "supply": null,
+  "extensions": {}
+}
