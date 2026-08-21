@@ -1,0 +1,9 @@
+{
+  "name": "QA No Mint",
+  "symbol": "QA",
+  "description": "Endpoint smoke test only",
+  "image": "https://raw.githubusercontent.com/Kinggrant85/tokenanvil-metadata/main/images/307423cb-9be8-4706-a704-d82140634064.png",
+  "decimals": null,
+  "supply": null,
+  "extensions": {}
+}
