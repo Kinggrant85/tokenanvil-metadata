@@ -1,0 +1,9 @@
+{
+  "name": "TokenAnvil QA",
+  "symbol": "TAQA",
+  "description": "QA metadata test",
+  "image": "https://raw.githubusercontent.com/Kinggrant85/tokenanvil-metadata/main/images/5d9b96d1-21a3-4b61-9f8a-49ebad460983.png",
+  "decimals": 6,
+  "supply": 1000,
+  "extensions": {}
+}
