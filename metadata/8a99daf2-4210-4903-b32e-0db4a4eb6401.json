@@ -1,0 +1,34 @@
+{
+  "name": "Vendor Test Token",
+  "symbol": "VTT",
+  "description": "",
+  "image": "https://tokenanvil.store/assets/logo.jpg",
+  "decimals": null,
+  "supply": null,
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Creator Social Metadata",
+      "value": "Included"
+    },
+    {
+      "trait_type": "Launch Page Fields",
+      "value": "Included"
+    }
+  ],
+  "extensions": {
+    "token_page_requested": true,
+    "immutable_metadata_requested": false
+  }
+}
