@@ -1,0 +1,61 @@
+{
+  "name": "Codex Test Token",
+  "symbol": "CDXT",
+  "description": "metadata integration smoke test",
+  "image": "https://raw.githubusercontent.com/Kinggrant85/tokenanvil-metadata/main/images/ebaf03d1-b16a-41e3-ad04-87dbca1e50a0.png",
+  "decimals": 6,
+  "supply": 1000,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "test"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "launch"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked after initial mint"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Disabled at launch"
+    },
+    {
+      "trait_type": "Metadata Intent",
+      "value": "Immutable requested"
+    },
+    {
+      "trait_type": "Launch Page Fields",
+      "value": "Included"
+    }
+  ],
+  "external_url": "https://tokenanvil.store",
+  "extensions": {
+    "website": "https://tokenanvil.store",
+    "twitter": "https://x.com/tokenanvil",
+    "telegram": "https://t.me/tokenanvil",
+    "discord": "https://discord.gg/example",
+    "youtube": "https://youtube.com/@tokenanvil",
+    "medium": "https://medium.com/@tokenanvil",
+    "github": "https://github.com/tokenanvil",
+    "instagram": "https://instagram.com/tokenanvil",
+    "reddit": "https://reddit.com/r/tokenanvil",
+    "facebook": "https://facebook.com/tokenanvil",
+    "video_url": "https://youtube.com/watch?v=test",
+    "cover_image": "https://tokenanvil.store/assets/token-forge-hero.png",
+    "creator": "TokenAnvil",
+    "creator_website": "https://tokenanvil.store",
+    "token_page_requested": true,
+    "immutable_metadata_requested": true
+  }
+}
