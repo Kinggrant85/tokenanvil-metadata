@@ -1,0 +1,51 @@
+{
+  "name": "Codex Test Token",
+  "symbol": "CDX",
+  "description": "Smoke test metadata",
+  "image": "https://tokenanvil.store/assets/token-forge-hero.png",
+  "decimals": 6,
+  "supply": 1000,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "test"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "smoke"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked after initial mint"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Disabled at launch"
+    },
+    {
+      "trait_type": "Creator Social Metadata",
+      "value": "Included"
+    },
+    {
+      "trait_type": "Launch Page Fields",
+      "value": "Included"
+    }
+  ],
+  "external_url": "https://tokenanvil.store",
+  "extensions": {
+    "website": "https://tokenanvil.store",
+    "twitter": "https://x.com/test",
+    "creator": "TokenAnvil",
+    "creator_website": "https://tokenanvil.store",
+    "token_page_requested": true,
+    "immutable_metadata_requested": false
+  }
+}
