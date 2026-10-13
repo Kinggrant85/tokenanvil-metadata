@@ -1,0 +1,42 @@
+{
+  "name": "SPARK",
+  "symbol": "SPARK",
+  "description": "Spark coin, this coin is just a fun experiment I am doing with my friends and family. Feel free to invest!",
+  "image": "https://raw.githubusercontent.com/Kinggrant85/tokenanvil-metadata/main/images/d60b55a5-4152-434d-ba5d-eeff12e0ab6b.png",
+  "decimals": 9,
+  "supply": 1000000000,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Community"
+    },
+    {
+      "trait_type": "Network",
+      "value": "mainnet"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "meme"
+    },
+    {
+      "trait_type": "Tag",
+      "value": "community"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Creator Social Metadata",
+      "value": "Included"
+    }
+  ],
+  "extensions": {
+    "token_page_requested": false,
+    "immutable_metadata_requested": false
+  }
+}
