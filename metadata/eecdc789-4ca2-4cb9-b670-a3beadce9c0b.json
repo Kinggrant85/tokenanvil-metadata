@@ -1,0 +1,30 @@
+{
+  "name": "TokenAnvil QA No Mint",
+  "symbol": "TAQA",
+  "description": "QA metadata pipeline only; no token created",
+  "image": "https://tokenanvil.store/favicon.png",
+  "decimals": 9,
+  "supply": "1",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "devnet"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Freeze Authority",
+      "value": "Wallet controlled"
+    },
+    {
+      "trait_type": "Creator Social Metadata",
+      "value": "Included"
+    }
+  ],
+  "extensions": {
+    "token_page_requested": false,
+    "immutable_metadata_requested": false
+  }
+}
